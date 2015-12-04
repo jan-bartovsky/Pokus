@@ -27,6 +27,9 @@
 *.out
 *.app
 
+# Eclipse like metadata
+.metadata
+
 # =========================
 # Operating System Files
 # =========================

@@ -1,0 +1,8 @@
+May 25, 2015 4:57:18 PM com.micrium.plugin.eclipse.ucprobe.UcProbeProxy.core.activator.UcProbeProxyPlugin handleExtensionPoints
+INFO: Added Atollic TrueSTUDIO to valid implementations.
+May 25, 2015 4:57:18 PM com.micrium.plugin.eclipse.ucprobe.UcProbeProxy.core.activator.UcProbeProxyPlugin handleExtensionPoints
+INFO: Added Debugger Services Framework (DSF) to valid implementations.
+May 25, 2015 4:57:18 PM com.micrium.plugin.eclipse.ucprobe.UcProbeProxy.core.activator.UcProbeProxyPlugin handleExtensionPoints
+INFO: Added JLink to valid implementations.
+May 25, 2015 8:32:06 PM edu.hawaii.ics.csdl.jupiter.util.JupiterLogger debug
+INFO: the window was closed.
